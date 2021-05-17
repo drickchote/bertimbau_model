@@ -1,0 +1,1 @@
+bertimbau-base_bert-crf_selective.zip filter=lfs diff=lfs merge=lfs -text
